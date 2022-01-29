@@ -1,4 +1,4 @@
 # ts-2021-2
-Para a disciplina Teste de Software - UFG 
+Repositório de atividades para a disciplina de Teste de Software - Instituto de Informática UFG
 
 Alan Brito Barros
